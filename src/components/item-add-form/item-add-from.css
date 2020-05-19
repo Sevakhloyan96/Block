@@ -1,3 +1,11 @@
 .item-add-from{
     margin-top: 10px;
 }
+.item-add-from input{
+    margin-right: 2px;
+}
+.btn1{
+    width: 100px;
+    height: 38px;
+    padding: 5px;
+}
